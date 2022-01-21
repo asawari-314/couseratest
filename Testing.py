@@ -7,7 +7,7 @@ import tkinter as tk
 import numpy as np
 
 #Load Model
-model = load_model('dataset.h5')
+model = load_model('dataset.h6')
 
 #Main function
 def menu():
